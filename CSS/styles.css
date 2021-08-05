@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato',sans-serif;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Catamaran';
+    font-weight: 800 !important;
+  }
+  
+  .navbar-custom {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2%;
+    background-color: whitesmoke;
+  }
+  
+  .navbar-custom .navbar-brand {
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    font-weight: 700;
+  }
+  
